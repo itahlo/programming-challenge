@@ -31,7 +31,7 @@ The goal of the challenge is to implement a Java application that:
 
 1. Clone this repository:
    ```bash
-   git clone git@github.com:italosantana/programming-challenge.git
+   git clone git@github.com:itahlo/programming-challenge.git
 
 2. mvn clean compile exec:java
 
